@@ -12,7 +12,7 @@
 ## Not Related But Nice To Have
 1. [RestFull API By ProgrammerZamanNow](https://www.youtube.com/playlist?list=PL-CtdCApEFH-g0XS7fraWEZ28M8DiykC4)
 2. [Design Patterns By ProgrammerZamanNow](https://www.youtube.com/playlist?list=PL-CtdCApEFH_yiziXrQeogYOJzCmD8XLM)
-3. [Lambda Expression By ProgrammerZamanNow][https://www.youtube.com/playlist?list=PL-CtdCApEFH_71iT2klDSWIC0MScpLheN]
+3. [Lambda Expression By ProgrammerZamanNow](https://www.youtube.com/playlist?list=PL-CtdCApEFH_71iT2klDSWIC0MScpLheN)
 4. [Microservices By ProgrammerZamanNow](https://www.youtube.com/playlist?list=PL-CtdCApEFH-MtoBwQ0F3xNG21yjt5Kvs)
 
 ## Credit To
