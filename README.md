@@ -1,7 +1,7 @@
 # Youtube Link - All About Spring
 
-1. (Learning 1 By Java Brains)[https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7]
-2. (Learning 2 By Java Brains)[https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x]
+1. [Learning 1 By Java Brains](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
+2. [Learning 2 By Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 3. (Learning 3 By Java Brains)[https://www.youtube.com/playlist?list=PL1A506B159E5BD13E]
 4. (Learning 4 By Java Brains)[https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE]
 5. (Learning 5 By Java Brains)[https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaoaVoQVfRJPqvNTCjcTvJB]
